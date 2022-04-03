@@ -5,3 +5,5 @@ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=55ab50109
 Пытаюсь создать удалённый репозиторий по лекции 3 контроля версий
 
 yyuu
+
+Пишу в гитхабе для проверки в вс коде
